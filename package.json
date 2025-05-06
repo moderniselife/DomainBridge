@@ -1,0 +1,19 @@
+{
+  "name": "local-proxy",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "bun build index.ts --compile --outfile local-proxy",
+    "mkglobal": "sudo mv local-proxy /usr/local/bin/local-proxy"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
