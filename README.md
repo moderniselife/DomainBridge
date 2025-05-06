@@ -30,7 +30,7 @@ Built with [Bun](https://bun.sh) for maximum performance and minimal overhead.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/domainbridge.git
+git clone https://github.com/moderniselife/domainbridge.git
 cd domainbridge
 
 # Install dependencies
@@ -114,7 +114,7 @@ bun run build
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/domainbridge/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/moderniselife/domainbridge/issues).
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
